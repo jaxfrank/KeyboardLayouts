@@ -1,0 +1,1 @@
+frank_layout is intended for use with a lily58 pro keyboard. The layout is intended to be very similar to the standard qwerty layout. Special consideration has been made to allow this keyboard to be usable for gaming and programming (mostly C and C++).
